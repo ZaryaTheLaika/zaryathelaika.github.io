@@ -267,7 +267,7 @@ Training
 --------
 
 *   Jeanneney, John. [Early Training](https://www.unitedbloodtrackers.org/wp-content/uploads/2013/04/early-training.pdf) \[PDF, 14.2 kb\]. _United Blood Trackers_. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20220815082629/https://www.unitedbloodtrackers.org/wp-content/uploads/2013/04/early-training.pdf) from the original on August 15, 2022 via Wayback Machine.
-*   [From Puppy to Hunting Dog](http://www.spj.fi/en/online+journal/from+puppy+to+hunting+dog/) (dead link). Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20150730094945/http://www.spj.fi/en/online+journal/from+puppy+to+hunting+dog/) from the original on July 30, 2015 via Wayback Machine.
+*   ~~[From Puppy to Hunting Dog](http://www.spj.fi/en/online+journal/from+puppy+to+hunting+dog/)~~ (dead link). Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20150730094945/http://www.spj.fi/en/online+journal/from+puppy+to+hunting+dog/) from the original on July 30, 2015 via Wayback Machine.
 *   [Pennusta metsästyskoiraksi](https://spj.fi/web2017/wp-content/uploads/2017/03/pennusta_metsastyskoiraksi.pdf) \[trans. “From Puppy to Hunting Dog“, PDF, 6.27 MB\] (Finnish). Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119162719/https://spj.fi/web2017/wp-content/uploads/2017/03/pennusta_metsastyskoiraksi.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Rovaseudun Pystykorvakerho ry. [Haukkuvan lintukoiran koulutus](https://www.rovapystis.net/?page_id=201) \[trans. “Treeing Bird-Dog Training” or “Barking Bird-Dog Training”\] (Finnish). Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119162907/https://www.rovapystis.net/?page_id=201) from the original on January 19, 2023 via Wayback Machine.
 
@@ -366,7 +366,7 @@ Back to the top
 
 ### Magazine Articles
 
-*   Isk, Guvener. “[Yal: The Traditional Dog Food In Anatolia](http://www.anatoliandog.org:80/isik-007.htm)“ (dead link). _Choban Chatter_ 19(1), Spring 2009. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20181017200009/http://www.anatoliandog.org:80/isik-007.htm) from the original on October 17, 2018 via Wayback Machine.
+*   Isk, Guvener. “~~[Yal: The Traditional Dog Food In Anatolia](http://www.anatoliandog.org:80/isik-007.htm)~~“ (dead link). _Choban Chatter_ 19(1), Spring 2009. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20181017200009/http://www.anatoliandog.org:80/isik-007.htm) from the original on October 17, 2018 via Wayback Machine.
 *   Mull, Amanda. “[How Americans Decided Dogs Can’t Eat Grains](https://www.theatlantic.com/health/archive/2019/07/grain-free-dog-food-fda-warning/593167/).” _The Atlantic_, July 2, 2019. Retrieved February 10, 2023. [Archived](https://archive.is/svD0z) from the original on November 3, 2022 via archive.today.
 
 [Back to the top](/resources/#top)
