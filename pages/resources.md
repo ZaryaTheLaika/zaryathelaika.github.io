@@ -584,8 +584,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 Last updated April 7, 2023 (02:42:17 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
-Footnotes
----------
+## Footnotes
 
 <div id="footnote"/>
 
