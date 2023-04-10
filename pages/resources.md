@@ -50,8 +50,11 @@ Table of Contents
 Primer
 ------
 <div id="primer"/>
+
 ### Journal Articles
+
 <div id="primer-journal"/>
+
 *   Abe, Yoshiko. “[Hunting and Butchery Patterns of the Evenki in Northern Transbaikalia, Russia](https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf)” \[PDF, 26.7 MB\]. _Stony Brook University_ (2005): 1 — 555. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20220615230258/https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf) from the original on June 15, 2022 via Wayback Machine.
 *   Bogatov, S.V. “[Commercial Squirrel Hunting with Laikas](http://www.bradanderson.org/pads/PADS-Newsletter_28.pdf)” \[PDF, 2.08 MB\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 28 (2011): 54 – 81. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119192107/http://www.bradanderson.org/pads/PADS-Newsletter_28.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Bogatov, S.V. “[Hunting For Profit Versus Hunting For Sport](http://www.bradanderson.org/pads/Journal-of-PADS-17-English.pdf)” \[PDF, 910 kb\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 17 (2004): 28 – 31. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119190618/http://www.bradanderson.org/pads/Journal-of-PADS-17-English.pdf) from the original on January 19, 2023 via Wayback Machine.
@@ -68,7 +71,9 @@ Primer
 [Back to the top](#top)
 
 ### Magazine Articles
+
 <div id="primer-magazine"/>
+
 *   Derr, Mark. [Praise for All-Purpose Dogs](https://www.psychologytoday.com/us/blog/dogs-best-friend/201212/praise-all-purpose-dogs). _Psychology Today_, December 25, 2012. Retrieved January 22, 2023. [Archived](https://archive.is/5LLCI) from the original on January 22, 2023 via archive.today.
 *   [Laikaen: Ur-spisshunden](https://www.klikk.no/produkthjemmesider/villmarksliv/viltogvariert/laikaen-ur-spisshunden-3078840) \[trans. “Laika: The Spitz”\] (Norwegian). _Villmarksliv_. September 12, 2007. Retrieved February 3, 2023. [Archived](https://web.archive.org/web/20230131234830/https://www.klikk.no/produkthjemmesider/villmarksliv/viltogvariert/laikaen-ur-spisshunden-3078840) from the original on January 31, 2023 via Wayback Machine.
 *   Morozov, Aleksei. [The West Siberian Laika to the East Siberian Laika History, Breed Information, and More](https://projectupland.com/hunting-dogs/one-dog-to-hunt-them-all-the-west-siberian-laika-and-other-laika-breeds/). _Project Upland_. March 17, 2021. Retrieved January 21, 2023. [Archived](https://web.archive.org/web/20210318142514/https://projectupland.com/hunting-dogs/one-dog-to-hunt-them-all-the-west-siberian-laika-and-other-laika-breeds/) from the original on March 17, 2021 via Wayback Machine.
@@ -76,7 +81,9 @@ Primer
 [Back to the top](#top)
 
 ### News Articles
+
 <div id="primer-news"/>
+
 *   Hevonoja, Jaana. “[Luke: Suomen susikannassa ei ole merkkejä risteytymisistä koirien kanssa](https://yle.fi/a/3-11645280)” (Finnish). _Yle Uutiset_, November 12, 2020. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20230217061402/https://yle.fi/a/3-11645280) from the original on February 16, 2023 via Wayback Machine.
 
 [Back to the top](#top)
