@@ -36,9 +36,15 @@ Table of Contents
 7.  [Conditioning](/resources/#conditioning)
     *   [Magazine Articles](/resources/#conditioning-magazine)
     *   [Books](/resources/#conditioning-book)
-8.  [Organizations](/resources/#organization)
-9.  [Disclaimers](/resources/#disclaimer)
-10.  Support
+8.  [Trials]
+    *   [Dodcuments]
+    *   [Journal Articles]
+    *   [Magazine Articles
+    *   [Videos]
+    *   [Websites]
+9.  [Organizations](/resources/#organization)
+10.  [Disclaimers](/resources/#disclaimer)
+11.  Support
 
 Primer
 ------
@@ -313,7 +319,7 @@ Training
 *   Young, Robert J., and C. F. Cipreste. “Applying animal learning theory: training captive animals to comply with veterinary and husbandry procedures.” _Animal Welfare_ 13, no. 2 (2004): 225-232.
 *   Ziv, Gal. “[The effects of using aversive training methods in dogs—A review](https://banshockcollars.ca/pdf/The-effects-of-using-aversive-training-methods-in-dogsdA_review.pdf)” \[283 kb\]. _Journal of veterinary behavior_ 19 (2017): 50-60. Retrieved January 25, 2023. [Archived](https://web.archive.org/web/20220331081436/https://banshockcollars.ca/pdf/The-effects-of-using-aversive-training-methods-in-dogsdA_review.pdf) from the original on March 31, 2022 via Wayback Machine.
 
-[ ] Check file sizes of each PDF and language.
+[  ] Check file sizes and language of each PDF
 
 ### News Articles
 
@@ -363,6 +369,8 @@ Nutrition
 *   Marcellin-Little, Denis J., David Levine, and Robert Taylor. “Rehabilitation and conditioning of sporting dogs.” _Veterinary Clinics: Small Animal Practice_ 35, no. 6 (2005): 1427-1439. Retrieved February 3, 2023. Archived from the original on February 3, 2023 via Wayback Machine.
 *   McCauley, Sydney R., Stephanie D. Clark, Bradley W. Quest, Renee M. Streeter, and Eva M. Oxford. “Review of canine dilated cardiomyopathy in the wake of diet-associated concerns.” _Journal of Animal Science_ 98, no. 6 (2020): skaa155. Retrieved February 10, 2023. Archived from the original on February 10, 2023 via Wayback Machine.
 *   Shmalberg, Justin. “[Part 1: Canine performance nutrition](https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf)” \[PDF, 961 kb\]. _Tod. Vet. Pract_ 4 (2014): 72-76. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20211028114300/https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf) from the original on October 28, 2021 via Wayback Machine.
+
+[  ] Check file sizes and language of each PDF
 
 Back to the top
 
