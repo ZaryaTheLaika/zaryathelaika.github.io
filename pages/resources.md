@@ -573,15 +573,6 @@ We do not condone ultra-nationalism, chauvinism nor paternalism. We also do not 
 
 [Back to the top](#top)
 
-Footnotes
----------
-
-<div id="footnote"/>
-
-[^fn-spca]: While we welcome the evidence-based scientific approach and choice-based husbandry, some of the policies proposed by some organizations are not done with consulation of nor informed consent from indigenous peoples, marginalized communities nor the working class. There should be more grassroots efforts to bettering animal welfare.
-
-[Back to the top](#top)
-
 Support
 ----
 
@@ -592,3 +583,10 @@ If you find this page useful and wish to see continous updates, please consider 
 [Back to the top](#top)
 
 Last updated April 7, 2023 (02:42:17 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+
+Footnotes
+---------
+
+<div id="footnote"/>
+
+[^fn-spca]: While we welcome the evidence-based scientific approach and choice-based husbandry, some of the policies proposed by some organizations are not done with consulation of nor informed consent from indigenous peoples, marginalized communities nor the working class. There should be more grassroots efforts to bettering animal welfare.
