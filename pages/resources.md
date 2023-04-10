@@ -175,14 +175,18 @@ Anatomy
 
 *   Erica@ Quartermoongoldens. “[Dew Claws Do Have a Purpose!](https://vimeo.com/39124130)” _Vimeo_ video, 11:26. March 24,, 2012.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Health
 ------
 
+<div id="health"/>
+
 Health information on the laika landrace are sparse. Lumping the clade together because certain ecotypes (eg. British collies and their descendants in settler-colonial nation-states) have similar or same disorders.
 
 ### Programs
+
+<div id="health-program"/>
 
 *   Hälleforshundklubben. [RAS för Hälleforshund 2018 - 2022](https://www.skk.se/globalassets/dokument/rasdokument/ras-halleforshund.pdf) \[trans. “Breed-Specific Breeding Strategy for Hälleforshund”, PDF, 880 kb\] (Swedish). Retrieved January 18, 2023. [Archived](https://web.archive.org/web/20220423072036/https://www.skk.se/globalassets/dokument/rasdokument/ras-halleforshund.pdf) from the original on April 23, 2022.
 *   Norske Elghundklubbers Forbund. [Rasespesifikk avlsstrategi (RAS) for Russisk-Europeisk Laika](https://www.nkk.no/getfile.php/132195309-1568021577/Filer/RAS/RAS/Russisk-europeisk%20laika%20v1.pdf) \[trans. "Breed-Specific Breeding Strategy for Russo-European Laika", PDF, 970 kb\] (Norwegian). Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20210515010144/https://www.nkk.no/getfile.php/132195309-1568021577/Filer/RAS/RAS/Russisk-europeisk%20laika%20v1.pdf) from the original on May 15, 2021 via Wayback Machine.
@@ -205,9 +209,11 @@ Health information on the laika landrace are sparse. Lumping the clade together 
 *   Svenska Laikaklubben. [Avelsstrategi för Västsibirisk Laika](https://www.skk.se/globalassets/dokument/rasdokument/ras-vastsibirisk-lajka.pdf) \[trans. “Breeding Strategy for West Siberian Laika”, PDF, 344 kb\] (Swedish). Retrieved January 18, 2023. [Archived](https://web.archive.org/web/20220423072039/https://www.skk.se/globalassets/dokument/rasdokument/ras-vastsibirisk-lajka.pdf) from the original on April 23, 2022 via Wayback Machine.
 *   Svenska Laikaklubben. [Förenklad avelsstrategi Rysk-Europeisk Laika](https://www.skk.se/globalassets/dokument/rasdokument/ras-rysk-europeisk-lajka.pdf) \[trans. “Simplified Breeding Strategy Russo-European Laika”, PDF, 100 kb\] (Swedish). Retrieved January 18, 2023. [Archived](https://www.skk.se/globalassets/dokument/rasdokument/ras-rysk-europeisk-lajka.pdf) from the original on February 8, 2023.
 
-Back to the top
+[Back to the top](#top)
 
 ### Journal Articles
+
+<div id="journal"/>
 
 *   Bateson, Patrick, and David R. Sargan. "[Analysis of the canine genome and canine health: A commentary](http://www.border-wars.com/upload/Bateson-1.pdf)" \[PDF, 296 kb\]. _The Veterinary Journal_ 194, no. 3 (2012): 265-269. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20150418220136/http://www.border-wars.com/upload/Bateson-1.pdf) from the original on April 18, 2015 via Wayback Machine.
 *   Bateson, Patrick, Frank W. Nicholas, David R. Sargan, and Claire M. Wade. "[Analysis of the canine genome and canine health: bridging a gap](http://www.border-wars.com/upload/Bateson-2.pdf)" \[PDF, 175 kb\]. _Veterinary Journal_ 196, no. 1 (2013): 1-3. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20160405050716/http://www.border-wars.com/upload/Bateson-2.pdf) from the original on April 5, 2016 via Wayback Machine.
@@ -245,9 +251,11 @@ Back to the top
 *   Viitmaa, Ranno. “[Idiopathic epilepsy in Finnish Spitz dogs: Epidemiological, clinical and diagnostic aspects](http://urn.fi/URN:ISBN:978-952-10-9275-6)” \[PDF, 912 kb\]. Helsinki, Finland: Unigrafia Oy, 2013. Retrieved February 5, 2023. [Archived](https://web.archive.org/web/20170816035103/https://helda.helsinki.fi/bitstream/handle/10138/41571/viitmaa_ranno.pdf?sequence=1) from the original on August 16, 2017 via Wayback Machine.
 *   Wijnrocx, Katrien, Liesbeth François, Anneleen Stinckens, Steven Janssens, and Nadine Buys. “[Half of 23 Belgian dog breeds has a compromised genetic diversity, as revealed by genealogical and molecular data analysis](https://orbi.uliege.be/bitstream/2268/264276/1/Wijnrocx%20et%20al%20%282016%29%20JABG.pdf)” \[PDF, 167 kb\]. _Journal of Animal Breeding and Genetics_ 133, no. 5 (2016): 375-383. Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20211014121716/https://orbi.uliege.be/bitstream/2268/264276/1/Wijnrocx%20et%20al%20%282016%29%20JABG.pdf) from the original on October 14, 2021 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Blog Posts
+
+<div id="health-blog"/>
 
 *   Harrison, Jemima. “[Will this Toller x litter save the breed?](https://pedigreedogsexposed.blogspot.com/2011/08/will-this-toller-x-litter-save-breed.html)” _Pedigree Dogs Exposed_, August 20, 2011. Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20220527000508/https://pedigreedogsexposed.blogspot.com/2011/08/will-this-toller-x-litter-save-breed.html) from the original on on May 27, 2022.
 *   Landauer, Christopher. “[The BC Bottleneck](http://www.border-wars.com/2010/10/the-bc-bottleneck.html).” _BorderWars_, October 10, 2010. [Archived](https://web.archive.org/web/20160322222106/http://www.border-wars.com/2010/10/the-bc-bottleneck.html) from the original on March 22, 2016 via Wayback Machine.
@@ -266,25 +274,31 @@ Back to the top
 *   Seppälä, Halla. “~~[Perinnöllinen retinopatia tilastojen valossa, osa 1: koko populaatio](http://konnunkodon.fi/blogi/2013/03/01/perinnollinen-retinopatia-tilastojen-valossa-osa-1-koko-populaatio/)~~“ (dead link, Finnish). _Vain yhden alleelin tähden_. March 1, 2013. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20160407215438/http://konnunkodon.fi/blogi/2013/03/01/perinnollinen-retinopatia-tilastojen-valossa-osa-1-koko-populaatio/) from the original on April 7, 2016.
 *   Seppälä, Halla. “~~[Perinnöllinen retinopatia tilastojen valossa, osa 2: jalostuskoirat](http://konnunkodon.fi/blogi/2013/03/02/perinnollinen-retinopatia-tilastojen-valossa-osa-2-jalostuskoirat/)~~“ (dead link, Finnish). _Vain yhden alleelin tähden_.  March 2, 2013. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20160408120537/http://konnunkodon.fi/blogi/2013/03/02/perinnollinen-retinopatia-tilastojen-valossa-osa-2-jalostuskoirat/) from the original on April 8, 2016.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Books
 
+<div id="health-book"/>
+
 *   Boyko, R. H., & Boyko, A. R. “[Dog conservation and the population genetic structure of dogs](https://www.icbblog.org/wp-content/uploads/2016/06/Boyko-and-Boyko-2014-Dog-conservation-and-the-population-genetic-structure-of-dogs.pdf)” \[PDF, 1.38 MB\]. In _Free-Ranging Dogs and Wildlife Conservation_, edited by Gompper, Matthew E., 185 – 210. Oxford, UK: Oxford University Press, 2013. Retrieved February 11, 2023. [Archived](https://web.archive.org/web/20221117135527/https://www.icbblog.org/wp-content/uploads/2016/06/Boyko-and-Boyko-2014-Dog-conservation-and-the-population-genetic-structure-of-dogs.pdf) from the original on November 17, 2022.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Websites
+
+<div id="health-website"/>
 
 *   [DogWellNet](https://dogwellnet.com/)
 *   [Jalostusasiantuntija-Katariina-Maki](https://www.katariinamaki.com/) (Finnish)
 *   [Koirien Geenitutkimus](https://www.koirangeenit.fi/) (Finnish)
 *   [Kokonaisvaltaisen koiranjalostuksen tuki ry - HETI](http://www.koiranjalostus.fi/) (Finnish)
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Databases
 ---------
+
+<div id="database"/>
 
 *   [Dogweb](https://www.dogweb.no/) (Norwegian)
 *   [EKL Online](https://register.kennelliit.ee/) (Estonian)
@@ -298,10 +312,12 @@ Databases
 *   [База охотничьих собак](https://rgooboor.by/cynology/38?type=10) (Russian)
 *   [ЛАЙКИ и ГОНЧИЕ - БАЗЫ ДАННЫХ](https://www.laikirus.ru/) (Russian)
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Training
 --------
+
+<div id="training"/>
 
 *   Jeanneney, John. [Early Training](https://www.unitedbloodtrackers.org/wp-content/uploads/2013/04/early-training.pdf) \[PDF, 14.2 kb\]. _United Blood Trackers_. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20220815082629/https://www.unitedbloodtrackers.org/wp-content/uploads/2013/04/early-training.pdf) from the original on August 15, 2022 via Wayback Machine.
 *   ~~[From Puppy to Hunting Dog](http://www.spj.fi/en/online+journal/from+puppy+to+hunting+dog/)~~ (dead link). Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20150730094945/http://www.spj.fi/en/online+journal/from+puppy+to+hunting+dog/) from the original on July 30, 2015 via Wayback Machine.
@@ -310,13 +326,17 @@ Training
 
 ### Statements
 
-*   Makowska, I. J. “[Review of dog training methods: welfare, learning ability, and current standards](https://spca.bc.ca/wp-content/uploads/dog-training-methods-review.pdf)” \[PDF, 1.44 MB\]. _British Columbia Society for the Prevention of Cruelty of Animals_[\*](/resources/#disclaimer2): Vancouver, Canada (2018). Retrieved January 26, 2023. [Archived](https://web.archive.org/web/20220801053104/https://spca.bc.ca/wp-content/uploads/dog-training-methods-review.pdf) from the original on August 1, 2022 via Wayback Machine.
+<div id="training-statement"/>
+
+*   Makowska, I. J. “[Review of dog training methods: welfare, learning ability, and current standards](https://spca.bc.ca/wp-content/uploads/dog-training-methods-review.pdf)” \[PDF, 1.44 MB\]. _British Columbia Society for the Prevention of Cruelty of Animals_[^fn-spca]: Vancouver, Canada (2018). Retrieved January 26, 2023. [Archived](https://web.archive.org/web/20220801053104/https://spca.bc.ca/wp-content/uploads/dog-training-methods-review.pdf) from the original on August 1, 2022 via Wayback Machine.
 *   “[Humane Training of Dogs](https://www.canadianveterinarians.net/policy-and-outreach/position-statements/statements/humane-training-of-dogs/).” _Canadian Veterinary Medical Association_, September 21, 2021. Retrieved January 26, 2023. [Archived](https://web.archive.org/web/20221129083322/https://www.canadianveterinarians.net/policy-and-outreach/position-statements/statements/humane-training-of-dogs/) on from the original on November 26, 2022 via Wayback Machine.
 *   “[Position Statement on Humane Dog Training](https://avsab.ftlbcdn.net/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf)“ \[PDF, 2.08 MB\]. _American Veterinary Society of Animal Behavior_, 2021. Retrieved January 29, 2023. [Archived](https://web.archive.org/web/20230202060027/http://avsab.ftlbcdn.net/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf) from the original on February 2, 2023 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Journal Articles
+
+<div id="training-journal"/>
 
 *   Arhant, Christine, Hermann Bubna-Littitz, Angela Bartels, Andreas Futschik, and Josef Troxler. “Behaviour of smaller and larger dogs: effects of training methods, inconsistency of owner behaviour and level of engagement in activities with the dog.” _Applied Animal Behaviour Science_ 123, no. 3-4 (2010): 131-142.
 *   Blackwell, Emily J., Christine Bolster, Gemma Richards, Bethany A. Loftus, and Rachel A. Casey. “[The use of electronic collars for training domestic dogs: estimated prevalence, reasons and risk factors for use, and owner perceived success as compared to other training methods](https://link.springer.com/article/10.1186/1746-6148-8-93).” _BMC Veterinary Research_ 8 (2012): 1-11. [Archived](https://web.archive.org/web/20230114183909/https://link.springer.com/article/10.1186/1746-6148-8-93) from the original on January 14, 2023 via Wayback Machine.
@@ -350,9 +370,11 @@ Training
 *   Young, Robert J., and C. F. Cipreste. “Applying animal learning theory: training captive animals to comply with veterinary and husbandry procedures.” _Animal Welfare_ 13, no. 2 (2004): 225-232.
 *   Ziv, Gal. “[The effects of using aversive training methods in dogs—A review](https://banshockcollars.ca/pdf/The-effects-of-using-aversive-training-methods-in-dogsdA_review.pdf)” \[PDF, 283 kb\]. _Journal of veterinary behavior_ 19 (2017): 50-60. Retrieved January 25, 2023. [Archived](https://web.archive.org/web/20220331081436/https://banshockcollars.ca/pdf/The-effects-of-using-aversive-training-methods-in-dogsdA_review.pdf) from the original on March 31, 2022 via Wayback Machine.
 
-[  ] Check file sizes and language of each PDF
+- [ ] Check file sizes and language of each PDF
 
 ### News Articles
+
+<div id="training-news"/>
 
 *   Ali-Hokka, Anne, Stina Tuominen, and Joel Kanerva. “[Suojelukoirien koulutuksessa käytetään väkivaltaisia keinoja: salaa kuvatuilla videoilla koirille annetaan sähköiskuja, potkitaan ja lyödään](https://yle.fi/a/3-11772173)” \[trans. “Violent methods are used in the training of protection dogs: with secretly filmed videos, the dogs are given electric shocks, kicked and hit”\] (Finnish). _Yle Uutiset_, February 24, 2021. Retrieved February 11, 2023. [Archived](https://web.archive.org/web/20230204030521/https://yle.fi/a/3-11772173) from the original on February 4, 2023 via Wayback Machine.
 
@@ -369,21 +391,27 @@ Training
 *   Wilde, Nicole. _Living with Wolfdogs_. Santa Clarita, CA: Phantom Publishing, 1998.
 *   Wilde, Nicole. _Wolfdogs A-Z_. Santa Clarita, CA: Phantom Publishing, 2000.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Videos
+
+<div id="training-video"/>
 
 *   Hounds of Howgate. “[Hiking with Dogs: Commands](https://www.youtube.com/watch?v=Kzs3-vu5lVY).” _YouTube_ video, 14:05. September 5, 2018. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230122191836/https://www.youtube.com/watch?v=7Dua2Hao95M) from the original on January 22, 2023 via Wayback Machine.
 *   ulkona fi. ”[Koirat Metsällä -Mannermaiset kanakoirat](https://www.youtube.com/watch?v=Ho8QjtlsteY)“ (Finnish). _YouTube_ video, 13:09. January 28, 2019. Retrieved February 16, 2023.
 *   ulkona fi. ”[Koirat metsällä -pennun kasvatus](https://www.youtube.com/watch?v=rDSYx6mOe_4)“ (Finnish). _YouTube_ video, 12:57. October 16, 2019. Retrieved February 16, 2023.
 *   VisitGreenland. “[The Insider’s Guide: Dogsledding in Greenland](https://www.youtube.com/watch?v=Kzs3-vu5lVY).” _YouTube_ video, 9:26. October 15, 2018. Retrieved February 4, 2023. [Archived](https://web.archive.org/web/20230206062156/https://www.youtube.com/watch?v=Kzs3-vu5lVY) from the original on February 6, 2023 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Nutrition
 ---------
 
+<div id="nutrition"/>
+
 ### Journal Articles
+
+<div id="nutrition-journal"/>
 
 *   Ahlstrøm, Øystein, Paula Redman, and John Speakman. ”[Energy expenditure and water turnover in hunting dogs in winter conditions](https://www.researchgate.net/profile/John-Speakman-3/publication/221699594_Energy_expenditure_and_water_turnover_in_hunting_dogs_in_winter_conditions/links/0c96052d56b514c39c000000/Energy-expenditure-and-water-turnover-in-hunting-dogs-in-winter-conditions.pdf)“ \[PDF, 133 kb\]. _British Journal of Nutrition_ 106 (2011): S158-S161. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20230203183416/https://d1wqtxts1xzle7.cloudfront.net/32012187/339-libre.pdf?1391433155=&response-content-disposition=inline%3B+filename%3DEnergy_expenditure_and_water_turnover_in.pdf&Expires=1675452817&Signature=UR3QoVK2j0iFwcNGCE3p6WWkJER5auPDW9D~wyQVr9JRA2WOe5m6G6OzRt-WHU3xWHu6hb~i3wjjNNDJDQ3VIL8TGvHCYZOwqCz53ayXF0HazbJnqq1AD8HgTClx1X0CfsYjI9pTizX2gdiDW3RVJjaFSCYN3fQwjs~~VNBjhFPT6-qIdJG~I8ZyqHs2K-swvtBV~JAyVvCTKKORx5jO29oUuhrg4N3fQkIS-Dm-OBKBwawUtAvw--ka52GADBzvvEtc9ey58xReR-RVxyhF~w8yoOJcVq986h3cZc3wxeXzZRTGdkHzKNEYEweILkvA2KajNPkfmTmQQoHj3Ius3g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) from the original on February 2, 2023 via Wayback Machine.
 *   Arendt, Maja, K. M. Cairns, J. W. O. Ballard, Peter Savolainen, and Erik Axelsson. “[Diet adaptation in dog reflects spread of prehistoric agriculture](https://www.nature.com/articles/hdy201648).” _Heredity_ 117, no. 5 (2016): 301-306. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20221130221527/https://www.nature.com/articles/hdy201648) from the original on November 30, 2022 via Wayback Machine.
@@ -401,25 +429,31 @@ Nutrition
 *   McCauley, Sydney R., Stephanie D. Clark, Bradley W. Quest, Renee M. Streeter, and Eva M. Oxford. “[Review of canine dilated cardiomyopathy in the wake of diet-associated concerns](https://academic.oup.com/jas/article/98/6/skaa155/5857674).” _Journal of Animal Science_ 98, no. 6 (2020): skaa155. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20210404211124/https://academic.oup.com/jas/article/98/6/skaa155/5857674) from the original on April 4, 2021 via Wayback Machine.
 *   Shmalberg, Justin. “[Part 1: Canine performance nutrition](https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf)” \[PDF, 961 kb\]. _Tod. Vet. Pract_ 4 (2014): 72-76. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20211028114300/https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf) from the original on October 28, 2021 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Magazine Articles
+
+<div id="nutrition-magazine"/>
 
 *   Isk, Guvener. “~~[Yal: The Traditional Dog Food In Anatolia](http://www.anatoliandog.org:80/isik-007.htm)~~“ (dead link). _Choban Chatter_ 19(1), Spring 2009. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20181017200009/http://www.anatoliandog.org:80/isik-007.htm) from the original on October 17, 2018 via Wayback Machine.
 *   Mull, Amanda. “[How Americans Decided Dogs Can’t Eat Grains](https://www.theatlantic.com/health/archive/2019/07/grain-free-dog-food-fda-warning/593167/).” _The Atlantic_, July 2, 2019. Retrieved February 10, 2023. [Archived](https://archive.is/svD0z) from the original on November 3, 2022 via archive.today.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Blog Posts
+
+<div id="nutrition-blog"/>
 
 *   Freeman, Lisa. “[A Broken Heart: Risk of Heart Disease in Boutique or Grain-Free Diets and Exotic Ingredients](https://vetnutrition.tufts.edu/2018/06/a-broken-heart-risk-of-heart-disease-in-boutique-or-grain-free-diets-and-exotic-ingredients/).” _Clinical Nutrition Service at Cummings School_, June 5, 2018. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20221117190827/https://vetnutrition.tufts.edu/2018/06/a-broken-heart-risk-of-heart-disease-in-boutique-or-grain-free-diets-and-exotic-ingredients/) from the original on November 17, 2022 via Wayback Machine.
 *   Freeman, Lisa. “[Diet-Associated Dilated Cardiomyopathy: The Cause Is Not yet Known but It Hasn’t Gone Away](https://vetnutrition.tufts.edu/2023/02/diet-associated-dilated-cardiomyopathy-the-cause-is-not-yet-known-but-it-hasnt-gone-away/).” _Clinical Nutrition Service at Cummings School_, February 7, 2023. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20230208144120/https://vetnutrition.tufts.edu/2023/02/diet-associated-dilated-cardiomyopathy-the-cause-is-not-yet-known-but-it-hasnt-gone-away/) from the original on February 8, 2023 via Wayback Machine.
 *   Freeman, Lisa. “[It’s Not Just Grain-Free: An Update on Diet-Associated Dilated Cardiomyopathy](https://vetnutrition.tufts.edu/2018/11/dcm-update/).” _Clinical Nutrition Service at Cummings School_, August 28, 2019. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20221117162028/https://vetnutrition.tufts.edu/2018/11/dcm-update/) from the original on November 17, 2022 via Wayback Machine.
 *   Ruffner, Jess. “~~[A Look at Orijen Adult Food, or Why I Should Stop Making Rules If I’m Just Going to Break Them](http://desertwindhounds.blogspot.com/2010/11/look-at-orijen-adult-food-or-why-i.html)~~” (dead link). _DesertWindHounds_, November 23, 2010. Retrieved February 11, 2023. [Archived](https://web.archive.org/web/20111010232503/http://desertwindhounds.blogspot.com/2010/11/look-at-orijen-adult-food-or-why-i.html) from the original on October 10, 2011 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Books
+
+<div id="nutrition-book"/>
 
 *   Case, Linda P.  _Dog Food Logic: Making Smart Decisions for Your Dog in an Age of Too Many Choices_. Dogwise Publishing, 2014.
 *   Dodds, W. Jean and Diana Laverdure-Dunetz. _Canine Nutrigenomics: The New Science of Feeding Your Dog for Optimum Health_. Dogwise Publishing, 2015.
@@ -427,54 +461,84 @@ Nutrition
 *   Segal, Monica. _K9 Kitchen: The Truth Behind The Hype_ (2nd edition). Transcontinental Printing, 2009.
 *   Segal, Monica. _Optimal Nutrition: Raw and Cooked Canine Diets_. Doggie Diner, Incorporated, 2007.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Conditioning
 ------------
 
+<div id="conditioning"/>
+
 ### Magazine Articles
+
+<div id="conditiong-magazine"/>
 
 *   Carty, Dave. [Conditioning Tips from a Sled-Dog Champion](https://www.gundogmag.com/editorial/bird-dog-conditioning-tips/376945). _Gun Dog_. Retrieved January 19, 2023. [Archived](https://www.gundogmag.com/editorial/bird-dog-conditioning-tips/376945) from the original on July 3, 2022 via Wayback Machine.
 *   Spencer, James. [Proper Conditioning For Hunting - Pointing Breeds](https://www.gundogmag.com/editorial/training_gd_conditioningpb_200809/176076). _Gun Dog_. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20220518055451/https://www.gundogmag.com/editorial/training_gd_conditioningpb_200809/176076) from the original on May 18, 2022 via Wayback Machine.
 *   West, Bob. [Progressive Conditioning & Training to Get Your Dog in Hunting Shape](https://www.gundogmag.com/editorial/progressive-conditioning-training-get-dog-in-hunting-shape/378690). _Gun Dog_. Retrieved January 19, 2023. [Archived](http://web.archive.org/web/20200927194148/https://www.gundogmag.com/editorial/progressive-conditioning-training-get-dog-in-hunting-shape/378690) from the original on September 27, 2020 via Wayback Machine.
 *   West, Bob. [More On Conditioning](https://www.gundogmag.com/editorial/training_gd_moreoncond_200808/176175). _Gun Dog_. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20221004002749/https://www.gundogmag.com/editorial/training_gd_moreoncond_200808/176175) from the original on October 4, 2022 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Books
 
+<div id="conditioning-book"/>
+
 *   Zink, M. Christine and Janet B. Van Dyke. _Canine Sports Medicine and Rehabilitation_. Ames, IW: John Wiley & Sons, 2013.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Trials
 ------
 
+<div id="trial"/>
+
 ### Documents
+
+<div id="trial-document"/>
 
 *   Metsästysseura Länsisiperianlaikat ry. [ARVOSTELUOHJE, Länsisiperianlaikojen moniriistataipumustesti](https://ade7dbeb5f.clvaw-cdnwnd.com/3f959f8aca1a34158b3b542a226d156a/200000015-aebb8aebbb/Moniriistatesti%20Arvosteluohje.pdf?ph=ade7dbeb5f) \[PDF, 409 kb, trans. “EVALUTION INSTRUCTIONS, Multi-Game Aptitude Test for West Siberian Laika”\] (Finnish). Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20230215164253/https://ade7dbeb5f.clvaw-cdnwnd.com/3f959f8aca1a34158b3b542a226d156a/200000015-aebb8aebbb/Moniriistatesti%20Arvosteluohje.pdf?ph=ade7dbeb5f) from the original on February 15, 2023.
 *   Metsästysseura Länsisiperianlaikat ry. [Länsisiperianlaikojen moniriistataipumustesti](https://ade7dbeb5f.clvaw-cdnwnd.com/3f959f8aca1a34158b3b542a226d156a/200000018-194f2194f8/Moniriistatesti%20Maastokortti.pdf?ph=ade7dbeb5f) \[PDF, 419 kb, “Multi-Game Aptitude Test for West Siberian Laika”\] (Finnish). Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20230215164302/https://ade7dbeb5f.clvaw-cdnwnd.com/3f959f8aca1a34158b3b542a226d156a/200000018-194f2194f8/Moniriistatesti%20Maastokortti.pdf?ph=ade7dbeb5f) from the original on February 15, 2023 via Wayback Machine.
 
+[Back to the top](#top)
+
 ### Journal Articles
+
+<div id="trial-journal"/>
 
 *   Lyutin, Alexander. “[On Experts in System of Russian Organized Hunting Dog Breeding](http://www.bradanderson.org/pads/PADS-Newsletter_04.pdf)” \[PDF, 965 kb\]. _Journal of of the International Society for Preservation of Primitive Aboriginal Dogs_ 4 (2004): 10 – 14. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20230119192141/http://www.bradanderson.org/pads/PADS-Newsletter_04.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Shlykova, Irina. “[Complex Method for Rating of Dogs, or Bonitation](http://www.bradanderson.org/pads/PADS-Newsletter_03.pdf)” \[PDF, 2.16MB\]. _Journal of of the International Society for Preservation of Primitive Aboriginal Dogs_ 3 (2004): 5 – 10. Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20230119192103/http://www.bradanderson.org/pads/PADS-Newsletter_03.pdf) from the original on January 19, 2023 via Wayback Machine.
 
+[Back to the top](#top)
+
 ### Magazine Articles
+
+<div id="trial-magazine"/>
 
 *   Halkio, Birgit.“[Satoja koiria suosituimmissa lajeissa – katso tilasto](https://www.koiramme.fi/satoja-koiria)” (Finnish). _Koiramme_, April 14, 2022. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20220924233354/https://www.koiramme.fi/satoja-koiria) from the original on September 24, 2022.
 
+[Back to the top](#top)
+
 ### Videos
+
+<div id="trial-video"/>
 
 *   Metsästäjän Kanava. ”[Metsästys ennen ja nyt - Hirvenhaukkukoe](https://www.youtube.com/watch?v=XDDyCPr0cFU)“ (Finnish). _YouTube_ video, 8:52. May 10, 2015. Retrieved February 16, 2023.
 *   Metsästäjän Kanava. ”[Metsästys ennen ja nyt - Linnunhaukkukoe](https://www.youtube.com/watch?v=fSG7GBVCnCM)“ (Finnish). _YouTube_ video, 13:48. January 23, 2016. Retrieved February 16, 2023.
 
+[Back to the top](#top)
+
 ### Websites
+
+<div id="trial-website"/>
 
 *   [Konekarhu Jokke](https://www.konekarhu.fi/) (Finnish)
 
+[Back to the top](#top)
+
 Organizations
 -------------
+
+<div id="organization"/>
 
 *   [Hälleforshundklubben](https://www.halleforshunden.org/) (Swedish)
 *   [Klub chovateľov severských poľovných psov](https://www.severskepolovnepsy.sk/) (Slovak)
@@ -498,18 +562,33 @@ Organizations
 *   [Клуб «СУОМЕН»](https://suomen.org/) (Russian)
 *   [Росохотрыболовсоюз](https://rors-os.ru/) (Russian)
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
+
+Disclaimers
+-----------
+
+<div id="disclaimer"/>
 
 We do not condone ultra-nationalism, chauvinism nor paternalism. We also do not endorse any expressed bigotry (eg. ableism, racism, anti-indigeneity, transmisia and misogyny) by the authors above. Individuals committing sexual violence will promptly be removed from the page. If there is a suitable source alternative for substitution, please contact us.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
-While we welcome the evidence-based scientific approach and choice-based husbandry, some of the policies proposed by some organizations are not done with consulation of nor informed consent from indigenous peoples, marginalized communities nor the working class. There should be more grassroots efforts to bettering animal welfare.
+Footnotes
+---------
 
-[Back to the top](/resources/#top)
+<div id="footnote"/>
+
+[fn-spca]: While we welcome the evidence-based scientific approach and choice-based husbandry, some of the policies proposed by some organizations are not done with consulation of nor informed consent from indigenous peoples, marginalized communities nor the working class. There should be more grassroots efforts to bettering animal welfare.
+
+[Back to the top](#top)
+
+Support
+----
+
+<div id="support"/>
 
 If you find this page useful and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Last updated April 7, 2023 (02:42:17 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
