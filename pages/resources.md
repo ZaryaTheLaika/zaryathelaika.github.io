@@ -1,4 +1,5 @@
 Compiling information about West Siberian Laikas and the greater landrace on this page since information in English are not easy to find. Use a machine translator or find a friend willing to assist.
+
 <div id="top"/>
 
 Table of Contents
@@ -10,11 +11,13 @@ Table of Contents
     *   [News Articles](#primer-news)
     *   [Blog Posts](#primer-blog)
     *   [Books](#primer-book)
-    *   [Documentaries](#primer-documentaries)
+    *   [Documentaries](#primer-documentary)
     *   [Videos](#primer-video)
     *   [Podcast Episodes](#primer-podcast)
     *   [Websites](/resources/#primer-website)
 2.  [Anatomy](#anatomy)
+    *   [Magazine Articles](#anatomy-magazine)
+    *   [Books](#anatomy-book)
     *   [Videos](#anatomy-video)
 3.  [Health](#health)
     *   [Programs](#health-program)
@@ -89,13 +92,17 @@ Primer
 [Back to the top](#top)
 
 ### Blog Posts
+
 <div id="primer-blog"/>
+
 *   Bodio, Stephen. "[Working Wolf Dogs](http://stephenbodio.blogspot.com/2006/12/working-wolf-dogs.html)." _Querencia_, December 23, 2006. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20210925210440/https://stephenbodio.blogspot.com/2006/12/working-wolf-dogs.html) from the original on September 25, 2021 via Wayback Machine.
 
-[BAck to the top](#top)
+[Back to the top](#top)
 
 ### Books
+
 <div id="primer-book"/>
+
 *   Brandišauskas, Donatas. _Leaving footprints in the taiga: luck, spirits and ambivalence among the Siberian Orochen reindeer herders and hunters_. Vol. 1. Berghahn Books, 2016.
 *   Beregovoy, Vladimir. _Hunting Laika Breeds of Russia_. Dover, TN: Crystal Dreams Press, 2003.
 *   Beregovoy, Vladimir. _Hunting Laika Breeds of Russia_ (second edition). Rosedog Press, 2019.
@@ -112,7 +119,9 @@ Primer
 [Back to the top](#top)
 
 ### Documentaries
+
 <div id="primer-documentary"/>
+
 *   Herzog, Werner and Dmitry Vasyukov. _Happy People: A Year in the Taiga_. Music Box Films, 2010. 1 hr, 34 min.
 *   Snow, Sasha. _[Conflict Tiger](https://vimeo.com/ondemand/conflicttiger)_. Sasha Snow Productions, 2006. 1 hr, 2 min.
 *   Васюков,  Дмитрий.  «[Счастливые люди: Енисей](https://www.youtube.com/playlist?list=PLcHbZZPce_ZOUNmBDbOFqw1n5YKdz_Kn4)» (Russian). _YouTube_ playlist. February 15, 2015.
@@ -142,15 +151,27 @@ Primer
 Anatomy
 -------
 
+<div id="anatomy"/>
+
 ### Magazine Articles
+
+<div id="anatomy-magazine"/>
 
 *   Belkin, Dan. “~~[The functional Saluki – lessons from the coursing field](http://saluqi.home.netcom.com/belkin.htm)~~” (dead link). _Saluki International_, Spring/Summer 1994. Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20150908052019/http://saluqi.home.netcom.com/belkin.htm) from the original on September 8, 2015 via Wayback Machine.
 
+[Back to the top](#top)
+
 ### Books
+
+<div id="anatomy-book"/>
 
 *   Fischer, Martin S., Karin E. Lilje, J. Lauströer, and A. Andikfar. _Dogs in Motion_. Dortmund:: VDH Service, 2011.
 
+[Back to the top](#top)
+
 ### Videos
+
+<div id="anatomy-video"/>
 
 *   Erica@ Quartermoongoldens. “[Dew Claws Do Have a Purpose!](https://vimeo.com/39124130)” _Vimeo_ video, 11:26. March 24,, 2012.
 
