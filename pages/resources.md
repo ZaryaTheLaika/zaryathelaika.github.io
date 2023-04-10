@@ -129,20 +129,26 @@ Primer
 [Back to the top](#top)
 
 ### Videos
+
 <div id="primer-video"/>
+
 *   Suomen Pystykorvajärjestö. “[The Finnish Spitz](https://www.youtube.com/watch?v=6Q_YDLohRpc).” _YouTube_ video, 8:31. February 24, 2014. Retrieved January 20, 2023. [Archived](https://web.archive.org/web/20161125013832/https://www.youtube.com/watch?v=6Q_YDLohRpc) from the original on November 25, 2016 via Wayback Machine.
 *   WildFutures. “[Agency Use of Karelian Bear Dogs For Carnivore Conservation & Management](https://vimeo.com/253038134).“ _Vimeo_ video, 1:06:03. January 27, 2018. Retrieved February 15, 2023.
 
 [Back to the top](#top)
 
 ### Podcast Episodes
+
 <div id="primer-podcast"/>
+
 *   Vladimir Beregovoy. “[RUSSIAN WOODS: WWII, THE MANSI, TIGERS & ABORIGINAL DOGS | Biologist | Vladimir Beregovoy](https://podcasts.apple.com/us/podcast/our-numinous-nature/id1521052113).” January 26, 2023, in Our Numinous Nature, produced by Philippe Willis, podcast, MP3 audio, 1:57:17. Retrieved January 26, 2023.
 
 [Back to the top](#top)
 
 ### Websites
-<div id="primer-video"/>
+
+<div id="primer-website"/>
+
 *   [Hunting Laika Breeds of Russia](http://www.laikabreeds.com/content/about-laikas/)
 *   [Охотничьи лайки. Библиотека. Перейти к содержимому](https://biblioteka-laiki.ru/) (Russian)
 
