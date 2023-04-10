@@ -578,7 +578,7 @@ Footnotes
 
 <div id="footnote"/>
 
-[fn-spca]: While we welcome the evidence-based scientific approach and choice-based husbandry, some of the policies proposed by some organizations are not done with consulation of nor informed consent from indigenous peoples, marginalized communities nor the working class. There should be more grassroots efforts to bettering animal welfare.
+[^fn-spca]: While we welcome the evidence-based scientific approach and choice-based husbandry, some of the policies proposed by some organizations are not done with consulation of nor informed consent from indigenous peoples, marginalized communities nor the working class. There should be more grassroots efforts to bettering animal welfare.
 
 [Back to the top](#top)
 
