@@ -48,8 +48,8 @@ Table of Contents
 11.  [Support](#support)
 
 Primer
-<div id="primer"/>
 ------
+<div id="primer"/>
 ### Journal Articles
 <div id="primer-journal"/>
 *   Abe, Yoshiko. “[Hunting and Butchery Patterns of the Evenki in Northern Transbaikalia, Russia](https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf)” \[PDF, 26.7 MB\]. _Stony Brook University_ (2005): 1 — 555. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20220615230258/https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf) from the original on June 15, 2022 via Wayback Machine.
