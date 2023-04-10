@@ -1,56 +1,57 @@
 Compiling information about West Siberian Laikas and the greater landrace on this page since information in English are not easy to find. Use a machine translator or find a friend willing to assist.
+<div id="top"/>
 
 Table of Contents
 -----------------
 
-1.  [Primer](/resources/#primer)
-    *   [Journal Articles](/resources/#primer-journal)
-    *   [Magazine Articles](/resources/#primer-magazine)
-    *   [News Articles](/resources/#primer-news)
-    *   [Blog Posts](/resources/#primer-blog)
-    *   [Books](/resources/#primer-book)
-    *   [Documentaries](/resources/#primer-documentaries)
-    *   [Videos](/resources/#primer-video)
-    *   [Podcast Episodes](/resources/#primer-podcast)
+1.  [Primer](#primer)
+    *   [Journal Articles](#primer-journal)
+    *   [Magazine Articles](#primer-magazine)
+    *   [News Articles](#primer-news)
+    *   [Blog Posts](#primer-blog)
+    *   [Books](#primer-book)
+    *   [Documentaries](#primer-documentaries)
+    *   [Videos](#primer-video)
+    *   [Podcast Episodes](#primer-podcast)
     *   [Websites](/resources/#primer-website)
-2.  [Anatomy](/resources/#anatomy)
-    *   [Videos](/resources/#anatomy-video)
-3.  [Health](/resources/#health)
-    *   [Programs](/resources/#health-programs)
-    *   [Journal Articles](/resources/#health-journal)
-    *   [Blog Posts](/resources/#health-blog)
-    *   [Books](/resources/#health-book)
-    *   [Websites](/resources/#health-website)
-4.  [Databases](/resources/#database)
-5.  [Training](/resources/#training)
-    *   [Statements](/resources/#training-statement)
-    *   Journal Articles
-    *   [News Articles](/resources/#training-news)
-    *   [Books](/resources/#training-book)
-    *   [Videos](/resources/#training-video)
-6.  [Nutrition](/resources/#nutrition)
-    *   [Journal Articles](/resources/#nutrition-journal)
-    *   [Magazine Articles](/resources/#nutrition-magazine)
-    *   [Blog Posts](/resources/#nutrition-blog)
-    *   [Books](/resources/#nutrition-book)
-7.  [Conditioning](/resources/#conditioning)
-    *   [Magazine Articles](/resources/#conditioning-magazine)
-    *   [Books](/resources/#conditioning-book)
-8.  [Trials]
-    *   [Dodcuments]
-    *   [Journal Articles]
-    *   [Magazine Articles
-    *   [Videos]
-    *   [Websites]
-9.  [Organizations](/resources/#organization)
-10.  [Disclaimers](/resources/#disclaimer)
-11.  [Support](/resources/#support)
+2.  [Anatomy](#anatomy)
+    *   [Videos](#anatomy-video)
+3.  [Health](#health)
+    *   [Programs](#health-program)
+    *   [Journal Articles](#health-journal)
+    *   [Blog Posts](#health-blog)
+    *   [Books](#health-book)
+    *   [Websites](#health-website)
+4.  [Databases](#database)
+5.  [Training](#training)
+    *   [Statements](#training-statement)
+    *   [Journal Articles](#training-journal)
+    *   [News Articles](#training-news)
+    *   [Books](#training-book)
+    *   [Videos](#training-video)
+6.  [Nutrition](#nutrition)
+    *   [Journal Articles](#nutrition-journal)
+    *   [Magazine Articles](#nutrition-magazine)
+    *   [Blog Posts](#nutrition-blog)
+    *   [Books](#nutrition-book)
+7.  [Conditioning](#conditioning)
+    *   [Magazine Articles](#conditioning-magazine)
+    *   [Books](#conditioning-book)
+8.  [Trials](#trial)
+    *   [Dodcuments](trial-document)
+    *   [Journal Articles](#trial-journal)
+    *   [Magazine Articles](#trial-magazine)
+    *   [Videos](#trial-video)
+    *   [Websites](#trial-website)
+9.  [Organizations](#organization)
+10.  [Disclaimers](#disclaimer)
+11.  [Support](#support)
 
 Primer
+<div id="primer"/>
 ------
-
 ### Journal Articles
-
+<div id="primer-journal"/>
 *   Abe, Yoshiko. “[Hunting and Butchery Patterns of the Evenki in Northern Transbaikalia, Russia](https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf)” \[PDF, 26.7 MB\]. _Stony Brook University_ (2005): 1 — 555. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20220615230258/https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf) from the original on June 15, 2022 via Wayback Machine.
 *   Bogatov, S.V. “[Commercial Squirrel Hunting with Laikas](http://www.bradanderson.org/pads/PADS-Newsletter_28.pdf)” \[PDF, 2.08 MB\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 28 (2011): 54 – 81. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119192107/http://www.bradanderson.org/pads/PADS-Newsletter_28.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Bogatov, S.V. “[Hunting For Profit Versus Hunting For Sport](http://www.bradanderson.org/pads/Journal-of-PADS-17-English.pdf)” \[PDF, 910 kb\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 17 (2004): 28 – 31. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119190618/http://www.bradanderson.org/pads/Journal-of-PADS-17-English.pdf) from the original on January 19, 2023 via Wayback Machine.
@@ -64,28 +65,30 @@ Primer
 *   Shiroky, B. and O. Shiroky. “[Immigrants of Aboriginal Origin in Кamchatka: Evenkian and Nenets Laika and Lamut Horse](https://padsociety.org/wp-content/uploads/2018/06/JournalofPADS_47Engl.-1.pdf)” \[PDF, 5.06 MB\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 47 (2017): 20 – 59. Retrieved February 11, 2023. [Archived](https://web.archive.org/web/20230211150024/https://padsociety.org/wp-content/uploads/2018/06/JournalofPADS_47Engl.-1.pdf) from the original on February 11, 2023 via Wayback Machine.
 *   Shiroky, B.I. "[Our Northern Dogs](http://bradanderson.org/pads/PADS-Newsletter_08.pdf)" \[PDF, 1.08 MB\] . _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 8 (2004): 5 – 11. Retrieved March 3, 2023. [Archived](https://web.archive.org/web/20230119192043/http://bradanderson.org/pads/PADS-Newsletter_08.pdf) from the original on January 19, 2023 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Magazine Articles
-
+<div id="primer-magazine"/>
 *   Derr, Mark. [Praise for All-Purpose Dogs](https://www.psychologytoday.com/us/blog/dogs-best-friend/201212/praise-all-purpose-dogs). _Psychology Today_, December 25, 2012. Retrieved January 22, 2023. [Archived](https://archive.is/5LLCI) from the original on January 22, 2023 via archive.today.
 *   [Laikaen: Ur-spisshunden](https://www.klikk.no/produkthjemmesider/villmarksliv/viltogvariert/laikaen-ur-spisshunden-3078840) \[trans. “Laika: The Spitz”\] (Norwegian). _Villmarksliv_. September 12, 2007. Retrieved February 3, 2023. [Archived](https://web.archive.org/web/20230131234830/https://www.klikk.no/produkthjemmesider/villmarksliv/viltogvariert/laikaen-ur-spisshunden-3078840) from the original on January 31, 2023 via Wayback Machine.
 *   Morozov, Aleksei. [The West Siberian Laika to the East Siberian Laika History, Breed Information, and More](https://projectupland.com/hunting-dogs/one-dog-to-hunt-them-all-the-west-siberian-laika-and-other-laika-breeds/). _Project Upland_. March 17, 2021. Retrieved January 21, 2023. [Archived](https://web.archive.org/web/20210318142514/https://projectupland.com/hunting-dogs/one-dog-to-hunt-them-all-the-west-siberian-laika-and-other-laika-breeds/) from the original on March 17, 2021 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
-### New Articles
-
+### News Articles
+<div id="primer-news"/>
 *   Hevonoja, Jaana. “[Luke: Suomen susikannassa ei ole merkkejä risteytymisistä koirien kanssa](https://yle.fi/a/3-11645280)” (Finnish). _Yle Uutiset_, November 12, 2020. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20230217061402/https://yle.fi/a/3-11645280) from the original on February 16, 2023 via Wayback Machine.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Blog Posts
-
+<div id="primer-blog"/>
 *   Bodio, Stephen. "[Working Wolf Dogs](http://stephenbodio.blogspot.com/2006/12/working-wolf-dogs.html)." _Querencia_, December 23, 2006. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20210925210440/https://stephenbodio.blogspot.com/2006/12/working-wolf-dogs.html) from the original on September 25, 2021 via Wayback Machine.
 
-### Books
+[BAck to the top](#top)
 
+### Books
+<div id="primer-book"/>
 *   Brandišauskas, Donatas. _Leaving footprints in the taiga: luck, spirits and ambivalence among the Siberian Orochen reindeer herders and hunters_. Vol. 1. Berghahn Books, 2016.
 *   Beregovoy, Vladimir. _Hunting Laika Breeds of Russia_. Dover, TN: Crystal Dreams Press, 2003.
 *   Beregovoy, Vladimir. _Hunting Laika Breeds of Russia_ (second edition). Rosedog Press, 2019.
@@ -99,35 +102,35 @@ Primer
 *   Пупышев П.Ф. Северные промысловые собаки. 1936. \[trans. “Pupyshev, P. F.  _Northern Hunting Dogs_. 1936.”\] (Russian)
 *   Охотничьи лайки. Войлочников А.Т., Войлочникова С.Д. Москва: Лесная промышленность, 1982 \[trans. “Voilochnikov, A. T. and Voilochnikova, S.D.  _Hunting Laika_. Moscow: Lesnaya Promyshlennost, 1982.”\] (Russian)
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Documentaries
-
+<div id="primer-documentary"/>
 *   Herzog, Werner and Dmitry Vasyukov. _Happy People: A Year in the Taiga_. Music Box Films, 2010. 1 hr, 34 min.
 *   Snow, Sasha. _[Conflict Tiger](https://vimeo.com/ondemand/conflicttiger)_. Sasha Snow Productions, 2006. 1 hr, 2 min.
 *   Васюков,  Дмитрий.  «[Счастливые люди: Енисей](https://www.youtube.com/playlist?list=PLcHbZZPce_ZOUNmBDbOFqw1n5YKdz_Kn4)» (Russian). _YouTube_ playlist. February 15, 2015.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Videos
-
+<div id="primer-video"/>
 *   Suomen Pystykorvajärjestö. “[The Finnish Spitz](https://www.youtube.com/watch?v=6Q_YDLohRpc).” _YouTube_ video, 8:31. February 24, 2014. Retrieved January 20, 2023. [Archived](https://web.archive.org/web/20161125013832/https://www.youtube.com/watch?v=6Q_YDLohRpc) from the original on November 25, 2016 via Wayback Machine.
 *   WildFutures. “[Agency Use of Karelian Bear Dogs For Carnivore Conservation & Management](https://vimeo.com/253038134).“ _Vimeo_ video, 1:06:03. January 27, 2018. Retrieved February 15, 2023.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Podcast Episodes
-
+<div id="primer-podcast"/>
 *   Vladimir Beregovoy. “[RUSSIAN WOODS: WWII, THE MANSI, TIGERS & ABORIGINAL DOGS | Biologist | Vladimir Beregovoy](https://podcasts.apple.com/us/podcast/our-numinous-nature/id1521052113).” January 26, 2023, in Our Numinous Nature, produced by Philippe Willis, podcast, MP3 audio, 1:57:17. Retrieved January 26, 2023.
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 ### Websites
-
+<div id="primer-video"/>
 *   [Hunting Laika Breeds of Russia](http://www.laikabreeds.com/content/about-laikas/)
 *   [Охотничьи лайки. Библиотека. Перейти к содержимому](https://biblioteka-laiki.ru/) (Russian)
 
-[Back to the top](/resources/#top)
+[Back to the top](#top)
 
 Anatomy
 -------
