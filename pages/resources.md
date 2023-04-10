@@ -29,7 +29,7 @@ Table of Contents
     *   [Books](/resources/#training-book)
     *   [Videos](/resources/#training-video)
 6.  [Nutrition](/resources/#nutrition)
-    *   Journal Articles
+    *   [Journal Articles](/resources/#nutrition-journal)
     *   [Magazine Articles](/resources/#nutrition-magazine)
     *   [Blog Posts](/resources/#nutrition-blog)
     *   [Books](/resources/#nutrition-book)
@@ -370,9 +370,7 @@ Nutrition
 *   McCauley, Sydney R., Stephanie D. Clark, Bradley W. Quest, Renee M. Streeter, and Eva M. Oxford. “[Review of canine dilated cardiomyopathy in the wake of diet-associated concerns](https://academic.oup.com/jas/article/98/6/skaa155/5857674).” _Journal of Animal Science_ 98, no. 6 (2020): skaa155. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20210404211124/https://academic.oup.com/jas/article/98/6/skaa155/5857674) from the original on April 4, 2021 via Wayback Machine.
 *   Shmalberg, Justin. “[Part 1: Canine performance nutrition](https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf)” \[PDF, 961 kb\]. _Tod. Vet. Pract_ 4 (2014): 72-76. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20211028114300/https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf) from the original on October 28, 2021 via Wayback Machine.
 
-[  ] Check file sizes and language of each PDF
-
-Back to the top
+[Back to the top](/resources/#top)
 
 ### Magazine Articles
 
