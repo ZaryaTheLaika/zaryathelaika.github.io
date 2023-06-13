@@ -550,7 +550,7 @@ Organizations
 *   [Klub chovateľov severských poľovných psov](https://www.severskepolovnepsy.sk/) (Slovak)
 *   [Klub karelských medvědích psů a lajek Praha](http://www.karelajky.eu/) (Czech)
 *   Laika Hunters Association of North America (inactive)
-*   [Jagdgebrauchshundverband e.V.](https://jghv.de/)
+*   [Jagdgebrauchshundverband e.V.](https://jghv.de/) (German)
 *   [Laika-Club e.V.](https://www.laika-club.de/) (German)
 *   [Lietuvos laikų savininkų klubas](https://www.laika.lt/) (Lithuanian)
 *   [Metsästysseura Länsisiperianlaikat ry](https://www.mslansisiperianlaikatry.com/) (Finnish)
