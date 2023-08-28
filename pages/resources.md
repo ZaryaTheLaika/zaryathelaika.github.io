@@ -462,7 +462,6 @@ Nutrition
 <div id="nutrition-book"/>
 
 *   Case, Linda P.  _Dog Food Logic: Making Smart Decisions for Your Dog in an Age of Too Many Choices_. Dogwise Publishing, 2014.
-*   Dodds, W. Jean and Diana Laverdure-Dunetz. _Canine Nutrigenomics: The New Science of Feeding Your Dog for Optimum Health_. Dogwise Publishing, 2015.
 *   National Research Council. _Nutrient requirements of dogs and cats_. National Academies Press, 2006.
 *   Segal, Monica. _K9 Kitchen: The Truth Behind The Hype_ (2nd edition). Transcontinental Printing, 2009.
 *   Segal, Monica. _Optimal Nutrition: Raw and Cooked Canine Diets_. Doggie Diner, Incorporated, 2007.
@@ -588,7 +587,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated April 7, 2023 (02:42:17 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated August 28, 2023 (17:43:47 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
