@@ -476,7 +476,7 @@ Nutrition
 
 <div id="nutrition-website"/>
 
-[SkeptVet]{https://skeptvet.com/)
+*   [SkeptVet](https://skeptvet.com)
 
 Conditioning
 ------------
