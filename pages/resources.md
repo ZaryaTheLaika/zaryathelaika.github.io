@@ -37,6 +37,7 @@ Table of Contents
     *   [Magazine Articles](#nutrition-magazine)
     *   [Blog Posts](#nutrition-blog)
     *   [Books](#nutrition-book)
+    *   [Websites](#nutrition-website)
 7.  [Conditioning](#conditioning)
     *   [Magazine Articles](#conditioning-magazine)
     *   [Books](#conditioning-book)
@@ -470,6 +471,12 @@ Nutrition
 *   Segal, Monica. _Optimal Nutrition: Raw and Cooked Canine Diets_. Doggie Diner, Incorporated, 2007.
 
 [Back to the top](#top)
+
+### Websites
+
+<div id="nutrition-website"/>
+
+[SkeptVet]{https://skeptvet.com/)
 
 Conditioning
 ------------
