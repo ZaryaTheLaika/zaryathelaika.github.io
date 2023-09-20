@@ -436,6 +436,7 @@ Nutrition
 *   McCauley, Sydney R., Stephanie D. Clark, Bradley W. Quest, Renee M. Streeter, and Eva M. Oxford. “[Review of canine dilated cardiomyopathy in the wake of diet-associated concerns](https://academic.oup.com/jas/article/98/6/skaa155/5857674).” _Journal of Animal Science_ 98, no. 6 (2020): skaa155. Retrieved February 10, 2023. [Archived](https://web.archive.org/web/20210404211124/https://academic.oup.com/jas/article/98/6/skaa155/5857674) from the original on April 4, 2021 via Wayback Machine.
 *   Shmalberg, Justin. “[Part 1: Canine performance nutrition](https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf)” \[PDF, 961 kb\]. _Tod. Vet. Pract_ 4 (2014): 72-76. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20211028114300/https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/06/T1411C09.pdf) from the original on October 28, 2021 via Wayback Machine.
 *   Smith, Caren E., Laurence D. Parnell, Chao-Qiang Lai, John E. Rush, and Lisa M. Freeman. "[Investigation of diets associated with dilated cardiomyopathy in dogs using foodomics analysis](https://www.nature.com/articles/s41598-022-26322-8)." *Scientific Reports* 11, no. 1 (2021): 15881. Retrieved September 19, 2023. [Archived](https://web.archive.org/web/20230104213023/https://www.nature.com/articles/s41598-022-26322-8) from the original on January 4, 2023 via Wayback Machine.
+*   Smith, Caren E., Laurence D. Parnell, Chao-Qiang Lai, John E. Rush, Darcy B. Adin, José M. Ordovás, and Lisa M. Freeman. "[Metabolomic profiling in dogs with dilated cardiomyopathy eating non-traditional or traditional diets and in healthy controls](https://www.nature.com/articles/s41598-022-26322-8)." *Scientific Reports* 12, no. 1 (2022): 22585. Retrieved September 19, 2023. [Archived](https://web.archive.org/web/20230104213023/https://www.nature.com/articles/s41598-022-26322-8) from the original on January 4, 2023 via Wayback Machine.
 
 [Back to the top](#top)
 
@@ -589,7 +590,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated September 20, 2023 (02:16:58 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated September 20, 2023 (02:30:09 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
