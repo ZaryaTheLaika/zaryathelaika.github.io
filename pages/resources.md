@@ -384,7 +384,8 @@ Training
 ### Magazine Articles
 
 <div id="training-magazine"/>
-* Greenstein, Irwin. "[Expert Dog Trainer Robert Milner Says Heck No to Shock Collars](https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html)". *Shotgun Life* (January 20, 2013). Retrieved September 22, 2023. [Archived](https://web.archive.org/web/20221006095001/https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html) on October 6, 2022 from the original via Wayback Machine.
+* Greenstein, Irwin. "[Expert Dog Trainer Robert Milner Says Heck No to Shock Collars](https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html)." *Shotgun Life* (January 20, 2013). Retrieved September 22, 2023. [Archived](https://web.archive.org/web/20221006095001/https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html) on October 6, 2022 from the original via Wayback Machine.
+- Разумовская, Е. "Из Опыта Выращивания И Воспитания Лайки." *Охота и охотничье хозяйство* 7 (1959). Retrieved September 21, 2023. 
 
 [Back to the top](/resources/#top)
 
@@ -606,7 +607,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated September 20, 2023 (02:30:09 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated September 22, 2023 (22:47:16 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
