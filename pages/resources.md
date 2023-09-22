@@ -379,6 +379,15 @@ Training
 
 - [ ] Check file sizes and language of each PDF
 
+[Back to the top](/resources/#top)
+
+### Magazine Articles
+
+<div id="training-magazine"/>
+* Greenstein, Irwin. "[Expert Dog Trainer Robert Milner Says Heck No to Shock Collars](https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html)". *Shotgun Life* (January 20, 2013). Retrieved September 22, 2023. [Archived](https://web.archive.org/web/20221006095001/https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html) on October 6, 2022 from the original via Wayback Machine.
+
+[Back to the top](/resources/#top)
+
 ### News Articles
 
 <div id="training-news"/>
