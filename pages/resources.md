@@ -222,7 +222,7 @@ Health information on the laika landrace are sparse. Lumping the clade together 
 
 ### Journal Articles
 
-<div id="journal"/>
+<div id="health-journal"/>
 
 *   Bateson, Patrick, and David R. Sargan. "[Analysis of the canine genome and canine health: A commentary](http://www.border-wars.com/upload/Bateson-1.pdf)" \[PDF, 296 kb\]. _The Veterinary Journal_ 194, no. 3 (2012): 265-269. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20150418220136/http://www.border-wars.com/upload/Bateson-1.pdf) from the original on April 18, 2015 via Wayback Machine.
 *   Bateson, Patrick, Frank W. Nicholas, David R. Sargan, and Claire M. Wade. "[Analysis of the canine genome and canine health: bridging a gap](http://www.border-wars.com/upload/Bateson-2.pdf)" \[PDF, 175 kb\]. _Veterinary Journal_ 196, no. 1 (2013): 1-3. Retrieved February 16, 2023. [Archived](https://web.archive.org/web/20160405050716/http://www.border-wars.com/upload/Bateson-2.pdf) from the original on April 5, 2016 via Wayback Machine.
@@ -386,10 +386,11 @@ Training
 ### Magazine Articles
 
 <div id="training-magazine"/>
-*   Greenstein, Irwin. "[Expert Dog Trainer Robert Milner Says Heck No to Shock Collars](https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html)." *Shotgun Life* (January 20, 2013). Retrieved September 22, 2023. [Archived](https://web.archive.org/web/20221006095001/https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html) on October 6, 2022 from the original via Wayback Machine.
-*   Беляев, П. "Выбор И Нахаживание Лаек." *Охота и охотничье хозяйство* 10 (1963). Retrieved September 25, 2023.
-*   Разумовская, Е. "Из Опыта Выращивания И Воспитания Лайки." *Охота и охотничье хозяйство* 7 (1959). Retrieved September 21, 2023.
-*   Худяков, П. "Из Опыта Старого Лаечника." *Охота и охотничье хозяйство* 4 (1966). Retrieved September 21, 2023.
+
+   * Greenstein, Irwin. "[Expert Dog Trainer Robert Milner Says Heck No to Shock Collars](https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html)." *Shotgun Life* (January 20, 2013). Retrieved September 22, 2023. [Archived](https://web.archive.org/web/20221006095001/https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html) on October 6, 2022 from the original via Wayback Machine.
+* Беляев, П. "Выбор И Нахаживание Лаек." *Охота и охотничье хозяйство* 10 (1963). Retrieved September 25, 2023.
+* Разумовская, Е. "Из Опыта Выращивания И Воспитания Лайки." *Охота и охотничье хозяйство* 7 (1959). Retrieved September 21, 2023.
+* Худяков, П. "Из Опыта Старого Лаечника." *Охота и охотничье хозяйство* 4 (1966). Retrieved September 21, 2023.
 
 [Back to the top](/resources/#top)
 
@@ -428,6 +429,7 @@ Training
 ### Websites
 <div id="training-website"/>
 
+* [American College of Veterinary Behavorists](https://www.dacvb.org/)
 * [Fear Free Pets](https://fearfreepets.com/)
 
 [Back to the top](#top)
@@ -621,7 +623,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated September 25, 2023 (06:13:49 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated September 25, 2023 (16:32:36 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
