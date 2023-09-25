@@ -385,6 +385,7 @@ Training
 
 <div id="training-magazine"/>
 *   Greenstein, Irwin. "[Expert Dog Trainer Robert Milner Says Heck No to Shock Collars](https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html)." *Shotgun Life* (January 20, 2013). Retrieved September 22, 2023. [Archived](https://web.archive.org/web/20221006095001/https://www.shotgunlife.com/wingshooting/wingshooting/expert-dog-trainer-robert-milner-says-heck-no-to-shock-collars.html) on October 6, 2022 from the original via Wayback Machine.
+*   Беляев, П. "Выбор И Нахаживание Лаек." *Охота и охотничье хозяйство* 10 (1963). Retrieved September 25, 2023.
 *   Разумовская, Е. "Из Опыта Выращивания И Воспитания Лайки." *Охота и охотничье хозяйство* 7 (1959). Retrieved September 21, 2023.
 *   Худяков, П. "Из Опыта Старого Лаечника." *Охота и охотничье хозяйство* 4 (1966). Retrieved September 21, 2023.
 
@@ -503,6 +504,7 @@ Conditioning
 *   Spencer, James. [Proper Conditioning For Hunting - Pointing Breeds](https://www.gundogmag.com/editorial/training_gd_conditioningpb_200809/176076). _Gun Dog_. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20220518055451/https://www.gundogmag.com/editorial/training_gd_conditioningpb_200809/176076) from the original on May 18, 2022 via Wayback Machine.
 *   West, Bob. [Progressive Conditioning & Training to Get Your Dog in Hunting Shape](https://www.gundogmag.com/editorial/progressive-conditioning-training-get-dog-in-hunting-shape/378690). _Gun Dog_. Retrieved January 19, 2023. [Archived](http://web.archive.org/web/20200927194148/https://www.gundogmag.com/editorial/progressive-conditioning-training-get-dog-in-hunting-shape/378690) from the original on September 27, 2020 via Wayback Machine.
 *   West, Bob. [More On Conditioning](https://www.gundogmag.com/editorial/training_gd_moreoncond_200808/176175). _Gun Dog_. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20221004002749/https://www.gundogmag.com/editorial/training_gd_moreoncond_200808/176175) from the original on October 4, 2022 via Wayback Machine.
+*  Ильинский, С. "Моцион И Тренировка Собаки." *Охота и охотничье хозяйство* 6 (1968). Retrieved September 25, 2023. 
 
 [Back to the top](#top)
 
