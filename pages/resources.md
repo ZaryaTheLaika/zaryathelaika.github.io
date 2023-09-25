@@ -29,9 +29,11 @@ Table of Contents
 5.  [Training](#training)
     *   [Statements](#training-statement)
     *   [Journal Articles](#training-journal)
+    *   [Magazine Articles](#training-magazine)
     *   [News Articles](#training-news)
     *   [Books](#training-book)
     *   [Videos](#training-video)
+    *   [Websites](#training-website)
 6.  [Nutrition](#nutrition)
     *   [Journal Articles](#nutrition-journal)
     *   [Magazine Articles](#nutrition-magazine)
@@ -423,6 +425,13 @@ Training
 
 [Back to the top](#top)
 
+### Websites
+<div id="training-website"/>
+
+* [Fear Free Pets](https://fearfreepets.com/)
+
+[Back to the top](#top)
+
 Nutrition
 ---------
 
@@ -489,6 +498,7 @@ Nutrition
 
 <div id="nutrition-website"/>
 
+*  [American College of Veterinary Nutrition](https://acvn.org/) 
 *   [SkeptVet](https://skeptvet.com)
 
 Conditioning
