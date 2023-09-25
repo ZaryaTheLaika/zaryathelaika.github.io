@@ -430,6 +430,7 @@ Training
 <div id="training-website"/>
 
 * [American College of Veterinary Behavorists](https://www.dacvb.org/)
+* [American Veterinary Society of Animal Behavior](https://avsab.org/)
 * [Fear Free Pets](https://fearfreepets.com/)
 
 [Back to the top](#top)
