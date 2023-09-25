@@ -491,7 +491,7 @@ Nutrition
 <div id="nutrition-book"/>
 
 *   Case, Linda P.  _Dog Food Logic: Making Smart Decisions for Your Dog in an Age of Too Many Choices_. Dogwise Publishing, 2014.
-*   National Research Council. _Nutrient requirements of dogs and cats_. National Academies Press, 2006.
+*   National Research Council. [_Nutrient requirements of dogs and cats_](https://nap.nationalacademies.org/catalog/10668/nutrient-requirements-of-dogs-and-cats). National Academies Press, 2006.
 *   Segal, Monica. _K9 Kitchen: The Truth Behind The Hype_ (2nd edition). Transcontinental Printing, 2009.
 *   Segal, Monica. _Optimal Nutrition: Raw and Cooked Canine Diets_. Doggie Diner, Incorporated, 2007.
 
