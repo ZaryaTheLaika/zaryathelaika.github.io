@@ -504,8 +504,9 @@ Nutrition
 
 <div id="nutrition-website"/>
 
-*  [American College of Veterinary Nutrition](https://acvn.org/) 
-*   [SkeptVet](https://skeptvet.com)
+*  [American College of Veterinary Nutrition](https://acvn.org/)
+*  [Nutrition RVN](https://nutritionrvn.com/)
+*  [SkeptVet](https://skeptvet.com)
 
 Conditioning
 ------------
