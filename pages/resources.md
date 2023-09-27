@@ -550,7 +550,9 @@ Trials
 
 <div id="trial-journal"/>
 
+* Liinamo, Anna-Elisa. "Breeding for improved hunting performance in Norwegian Elkhound and Swedish Jämthund populations in Finland." In Book of Abstracts of the 60th Annual Meeting of the European Association for Animal Production: Barcelona, Spain 24-27 August 2009. Wageningen Academic Publishers, 2009.
 *   Lyutin, Alexander. “[On Experts in System of Russian Organized Hunting Dog Breeding](http://www.bradanderson.org/pads/PADS-Newsletter_04.pdf)” \[PDF, 965 kb\]. _Journal of of the International Society for Preservation of Primitive Aboriginal Dogs_ 4 (2004): 10 – 14. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20230119192141/http://www.bradanderson.org/pads/PADS-Newsletter_04.pdf) from the original on January 19, 2023 via Wayback Machine.
+*   Sarviaho, Katri. "Estimation of Genetic Parameters for Elk Hunting Traits in Jämthunds." (2019).
 *   Shlykova, Irina. “[Complex Method for Rating of Dogs, or Bonitation](http://www.bradanderson.org/pads/PADS-Newsletter_03.pdf)” \[PDF, 2.16MB\]. _Journal of of the International Society for Preservation of Primitive Aboriginal Dogs_ 3 (2004): 5 – 10. Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20230119192103/http://www.bradanderson.org/pads/PADS-Newsletter_03.pdf) from the original on January 19, 2023 via Wayback Machine.
 
 [Back to the top](#top)
