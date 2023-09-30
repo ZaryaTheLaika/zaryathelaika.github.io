@@ -510,6 +510,7 @@ Nutrition
 
 *  [American College of Veterinary Nutrition](https://acvn.org/)
 *  [Nutrition RVN](https://nutritionrvn.com/)
+*  [Pet Nutrition Alliance](https://petnutritionalliance.org/)
 *  [SkeptVet](https://skeptvet.com)
 
 Conditioning
