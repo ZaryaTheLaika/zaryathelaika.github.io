@@ -32,6 +32,7 @@ Table of Contents
     *   [Magazine Articles](#training-magazine)
     *   [News Articles](#training-news)
     *   [Books](#training-book)
+    *   [Documentaries](#training-documentary)
     *   [Videos](#training-video)
     *   [Websites](#training-website)
 6.  [Nutrition](#nutrition)
