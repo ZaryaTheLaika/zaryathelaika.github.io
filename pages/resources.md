@@ -64,6 +64,7 @@ Primer
 <div id="primer-journal"/>
 
 *   Abe, Yoshiko. “[Hunting and Butchery Patterns of the Evenki in Northern Transbaikalia, Russia](https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf)” \[PDF, 26.7 MB\]. _Stony Brook University_ (2005): 1 — 555. Retrieved February 2, 2023. [Archived](https://web.archive.org/web/20220615230258/https://paleoanthro.org/media/dissertations/yoshiko%20abe.pdf) from the original on June 15, 2022 via Wayback Machine.
+* Arakchaa, Tayana. "[Reindeer, dogs, and horses among the Tozhu reindeer herder-hunters in the Siberian taiga](https://scholarworks.alaska.edu/handle/11122/10268)" [PDF, 16.5MB]. University of Alaska Fairbanks, 2018. Retrieved October 27, 2023. [Archived](https://web.archive.org/web/20221006232927/https://scholarworks.alaska.edu/bitstream/handle/11122/10268/Arakchaa_T_2018.pdf?sequence=1&isAllowed=y) from the original on October 6, 2022 via Wayback Machine.
 *   Bogatov, S.V. “[Commercial Squirrel Hunting with Laikas](http://www.bradanderson.org/pads/PADS-Newsletter_28.pdf)” \[PDF, 2.08 MB\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 28 (2011): 54 – 81. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119192107/http://www.bradanderson.org/pads/PADS-Newsletter_28.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Bogatov, S.V. “[Hunting For Profit Versus Hunting For Sport](http://www.bradanderson.org/pads/Journal-of-PADS-17-English.pdf)” \[PDF, 910 kb\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 17 (2004): 28 – 31. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119190618/http://www.bradanderson.org/pads/Journal-of-PADS-17-English.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Bogatov, S.V. “[Peculiarities of Laika Hunting Sable](http://www.bradanderson.org/pads/PADS-Newsletter_06.pdf)” \[PDF, 907 kb\]. _Journal of the International Society for Preservation of Primitive Aboriginal Dogs_ 6 (2004): 2 – 3. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230119192045/http://www.bradanderson.org/pads/PADS-Newsletter_06.pdf) from the original on January 19, 2023 via Wayback Machine.
@@ -644,7 +645,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated December 6, 2023 (15:30:18 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated December 6, 2023 (22:34:45 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
