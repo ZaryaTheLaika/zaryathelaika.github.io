@@ -512,7 +512,9 @@ Nutrition
 
 <div id="nutrition-video"]
 
-* The Pet Food Puzzle Guy. "[The Best Dog Food for Your Dog With Arthritis]." *YouTube* video, 21:15. November 9, 2023. Retrieved November 9, 2023. Archiving pending via Wayback Machine.
+* The Pet Food Puzzle Guy. "[The Best Dog Food for Your Dog With Arthritis](https://www.youtube.com/watch?v=GCWm0Cu2qKU)." *YouTube* video, 21:15. November 9, 2023. Retrieved November 9, 2023. Archiving pending via Wayback Machine.
+*  The Pet Food Puzzle Guy. "[Which is the healthiest Senior Dog Food? Blue,Orijen, Kirkland, Purina ONE, Science Diet - Review](https://www.youtube.com/watch?v=Rvg-whwOYEk)." *YouTube* video, 27:26. July 7, 2023. Retrieved December 6, 2023. Archiving pending via Wayback Machine.
+* Twin Trees Vet. "[IT'S NOT OVER! Grain Free Dog Food & Heart Disease│Twin Trees Vet Talk (FREE VET ADVICE PODCAST](https://www.youtube.com/watch?v=ehTX1dw9NpQ)." *YouTube* video, 8:02. February 25, 2023. Retrieved December 6, 2023. Archiving pending via Wayback Machine.
 
 ### Websites
 
