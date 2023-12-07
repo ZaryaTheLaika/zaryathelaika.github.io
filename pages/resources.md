@@ -427,6 +427,8 @@ Training
 
 <div id="training-video"/>
 
+
+*   Allt om Jakt och Vapen. "[Hundskolan](https://www.youtube.com/playlist?list=PLAFf6cw3Dlr-hGC1LJh-kS9lajci_XVhA)" (Swedish). _YouTube_ playlist. Retrieved December 6, 2023.
 *   Hounds of Howgate. “[Hiking with Dogs: Commands](https://www.youtube.com/watch?v=Kzs3-vu5lVY).” _YouTube_ video, 14:05. September 5, 2018. Retrieved January 19, 2023. [Archived](https://web.archive.org/web/20230122191836/https://www.youtube.com/watch?v=7Dua2Hao95M) from the original on January 22, 2023 via Wayback Machine.
 *   ulkona fi. ”[Koirat Metsällä -Mannermaiset kanakoirat](https://www.youtube.com/watch?v=Ho8QjtlsteY)“ (Finnish). _YouTube_ video, 13:09. January 28, 2019. Retrieved February 16, 2023.
 *   ulkona fi. ”[Koirat metsällä -pennun kasvatus](https://www.youtube.com/watch?v=rDSYx6mOe_4)“ (Finnish). _YouTube_ video, 12:57. October 16, 2019. Retrieved February 16, 2023.
