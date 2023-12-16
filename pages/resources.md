@@ -407,6 +407,7 @@ Training
 <div id="training-news"/>
 
 *   Ali-Hokka, Anne, Stina Tuominen, and Joel Kanerva. “[Suojelukoirien koulutuksessa käytetään väkivaltaisia keinoja: salaa kuvatuilla videoilla koirille annetaan sähköiskuja, potkitaan ja lyödään](https://yle.fi/a/3-11772173)” \[trans. “Violent methods are used in the training of protection dogs: with secretly filmed videos, the dogs are given electric shocks, kicked and hit”\] (Finnish). _Yle Uutiset_, February 24, 2021. Retrieved February 11, 2023. [Archived](https://web.archive.org/web/20230204030521/https://yle.fi/a/3-11772173) from the original on February 4, 2023 via Wayback Machine.
+*   Peltoperä, Jari. "[Koirien aiheuttamia porovahinkoja tapahtuu eniten metsästysaikaan – opetettuna hirvikoirakin jättää poron rauhaan](https://web.archive.org/web/20230130053633/https://yle.fi/a/3-12606796)" \[trans. "Reindeer damage caused by dogs occurs most during hunting season - even a trained moose-dog will leave the reindeer alone"\] (Finnish). _Yle Uutiset_, September 17, 2022. Retrieved December 16, 2023. [Archived](https://web.archive.org/web/20230130053633/https://yle.fi/a/3-12606796) from the original on January 30, 2023 via Wayback Machine.
 
 [Back to the top](/resources/#top)
 
@@ -651,7 +652,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated December 6, 2023 (22:34:45 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated December 16, 2023 (17:50:53 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
