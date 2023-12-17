@@ -576,6 +576,7 @@ Trials
 * Liinamo, Anna-Elisa. "Breeding for improved hunting performance in Norwegian Elkhound and Swedish Jämthund populations in Finland." In Book of Abstracts of the 60th Annual Meeting of the European Association for Animal Production: Barcelona, Spain 24-27 August 2009. Wageningen Academic Publishers, 2009.
 *   Lyutin, Alexander. “[On Experts in System of Russian Organized Hunting Dog Breeding](http://www.bradanderson.org/pads/PADS-Newsletter_04.pdf)” \[PDF, 965 kb\]. _Journal of of the International Society for Preservation of Primitive Aboriginal Dogs_ 4 (2004): 10 – 14. Retrieved February 17, 2023. [Archived](https://web.archive.org/web/20230119192141/http://www.bradanderson.org/pads/PADS-Newsletter_04.pdf) from the original on January 19, 2023 via Wayback Machine.
 *   Sarviaho, Katri. "Estimation of Genetic Parameters for Elk Hunting Traits in Jämthunds." (2019).
+*   Sarviaho, Katri, and Pekka Uimari. "[Heritability of the elk hunting traits in the Finnish Jämthund population](https://helda.helsinki.fi/bitstream/10138/357575/1/Heritability_of_the_elk_hunting_traits_in_the_Finnish_J_mthund_population.pdf)" \[PDF, 1 364 kb\] Acta Agriculturae Scandinavica, Section A—Animal Science (2023): 1-10. Retrieved December 16, 2023. [Archived](https://web.archive.org/web/20231217061405/https://helda.helsinki.fi/server/api/core/bitstreams/2f9bc9c1-3aa8-4aa0-a587-93f97965b154/content) from the original on December 17, 2023 via Wayback Machine.
 *   Shlykova, Irina. “[Complex Method for Rating of Dogs, or Bonitation](http://www.bradanderson.org/pads/PADS-Newsletter_03.pdf)” \[PDF, 2.16MB\]. _Journal of of the International Society for Preservation of Primitive Aboriginal Dogs_ 3 (2004): 5 – 10. Retrieved February 15, 2023. [Archived](https://web.archive.org/web/20230119192103/http://www.bradanderson.org/pads/PADS-Newsletter_03.pdf) from the original on January 19, 2023 via Wayback Machine.
 
 [Back to the top](#top)
@@ -652,7 +653,7 @@ If you find this page useful and wish to see continous updates, please consider 
 
 [Back to the top](#top)
 
-Last updated December 16, 2023 (17:50:53 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
+Last updated December 17, 2023 (06:25:06 UTC). Source code hosted on [GitHub](https://github.com/ZaryaTheLaika/Tumblr/tree/main/pages) and [GitLab](https://gitlab.com/ZaryaTheLaika/Tumblr/-/tree/main/pages).
 
 ## Footnotes
 
