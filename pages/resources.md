@@ -526,6 +526,9 @@ Nutrition
 <div id="nutrition-website"/>
 
 *  [American College of Veterinary Nutrition](https://acvn.org/)
+*  [Canadian Academy of Veterinary Nutrition](https://canvetnutrition.com/)
+*  [European College of Veterinary and Comparative Nutrition](https://www.ecvcn.org/)
+*  [European Society of Veterinary & Comparative Nutrition](https://esvcn.org/)
 *  [Nutrition RVN](https://nutritionrvn.com/)
 *  [Pet Nutrition Alliance](https://petnutritionalliance.org/)
 *  [SkeptVet](https://skeptvet.com)
